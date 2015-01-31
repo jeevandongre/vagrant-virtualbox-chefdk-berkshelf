@@ -1,7 +1,7 @@
 # vagrant-virtualbox-chefdk-berkshelf
 Installs vagrant,virtualbox,chefdk on ubuntu 14.04 along with the berkshelf vagrant plugin.
 
-** Getting started with Vagrant ?
+###  Getting started with Vagrant ?
 
 * Follow the below document to get started with vagrant and chef on your local box.
 
